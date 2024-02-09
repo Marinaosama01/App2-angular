@@ -1,0 +1,8 @@
+.about-body {
+    height: 81vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:#1ABC9C;
+}
